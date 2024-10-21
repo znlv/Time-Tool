@@ -2,7 +2,7 @@
 # Time-Tool
 
 ## Original Creator
-- **Jeroen Soree** (soree-it.nl) started this project 30 years ago. I'm excited to announce that I’m rebranding it into a blazingly fast web application. Originally developed in C#, I have now transitioned it to a modern web app.
+- **Jeroen** started this project 30 years ago. I'm excited to announce that I’m rebranding it into a blazingly fast web application. Originally developed in C#, I have now transitioned it to a modern web app.
 
 ## New Features
 - **Account System**: Users can create and manage their accounts for a personalized experience.
